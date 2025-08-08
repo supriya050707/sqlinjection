@@ -19,6 +19,11 @@ Investigate on the various categories of tools as follows:
 
 Open terminal and try execute some kali linux commands
 
+### Note
+```bash
+Change Your IP Where the <192.168.74.129> Enter Your IP Addr
+```
+
 ## EXECUTION STEPS AND ITS OUTPUT:
 - SQL Injection is a sort of infusion assault that makes it conceivable to execute malicious SQL statements. These statements control a database server behind a web application. Assailants can utilize SQL Injection vulnerabilities to sidestep application safety efforts. They can circumvent authentication and authorization of a page or web application and recover the content of the whole SQL database.
 
