@@ -21,7 +21,7 @@ Open terminal and try execute some kali linux commands
 
 ### Note
 ```bash
-Change Your IP Where the <192.168.74.129> Enter Your IP Addr
+Change Your IP Where the <192.168.43.145> Enter Your IP Addr
 ```
 
 ## EXECUTION STEPS AND ITS OUTPUT:
